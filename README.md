@@ -1,2 +1,3 @@
 # hello-world
-Learning how to navigate github
+Learning how to navigate Github
+Hello world!
