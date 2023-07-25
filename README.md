@@ -3,5 +3,5 @@ Hi, my name is [Elvin](https://github.com/elvinny-is-coding). I am currently enr
 
 ## 📫 Contact
 > You can reach me here:
-- [LinkedIn](in/avn-ng-eng-kit)
+> - [LinkedIn](in/avn-ng-eng-kit)
 
