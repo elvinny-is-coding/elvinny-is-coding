@@ -5,3 +5,4 @@ Hi, my name is Elvin. I am currently enrolled in Computer Science at [INTI Inter
 **You can reach me here:**
 > - [LinkedIn](in/avn-ng-eng-kit)
 > - [StackOverflow](https://stackoverflow.com/users/22286291/elvin-is-coding)
+> - [Twitter]()
