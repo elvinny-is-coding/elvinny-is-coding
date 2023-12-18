@@ -3,6 +3,6 @@ Hi, my name is Elvin. I am currently enrolled in Computer Science at [INTI Inter
 
 ## 📫 Contact
 **You can reach me here:**
-> - [LinkedIn](in/avn-ng-eng-kit)
+> - [LinkedIn]([in/avn-ng-eng-kit](https://www.linkedin.com/in/elvin-ng-eng-kit/))
 > - [Stack Overflow](https://stackoverflow.com/users/22286291/elvin-is-coding)
 > - [X](https://twitter.com/elvinny404)
